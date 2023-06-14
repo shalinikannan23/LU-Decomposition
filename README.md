@@ -44,7 +44,7 @@ print(C)
 ```
 
 ## Output:
-![lu decomposition]()
+
 ![Screenshot (143)](https://github.com/shalinikannan23/LU-Decomposition/assets/118656529/ab2539fb-0b54-4226-b843-46b7aaa4f1eb)
 ![Screenshot (144)](https://github.com/shalinikannan23/LU-Decomposition/assets/118656529/f340fc09-a622-47ec-b06c-182279205241)
 ## Result:
